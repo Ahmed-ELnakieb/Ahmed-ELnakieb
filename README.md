@@ -1,4 +1,4 @@
-# Hi there, I'm AHMED REZK ELNAKIEB 👋
+# Hi there, I'm Ahmed ELnakieb 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-ELnakieb&style=flat-square)
 [![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fahmed-elnakieb.com&style=flat-square)](https://ahmed-elnakieb.com)
@@ -18,7 +18,8 @@
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://linkedin.com/in/ahmed-elnakieb)
-[![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://github.com/Ahmed-ELnakieb&logo=github&colorB=555)](https://github.com/Ahmed-ELnakieb)
+[![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://twitter.com/ahmed_elnakieb)
+[![GitHub](https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/Ahmed-ELnakieb)
 [![Gmail](https://img.shields.io/badge/-Gmail-black.svg?style=flat-square&logo=gmail&colorB=555)](mailto:ahmedrmohamed2017@gmail.com)
 
 ---
@@ -96,6 +97,10 @@
   
   <p><em>Every trophy represents a milestone in my coding journey!</em></p>
 </div>
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-ELnakieb&theme=radical&no-frame=true&no-bg=true)
 
 ---
 
