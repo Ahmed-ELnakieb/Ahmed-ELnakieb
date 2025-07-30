@@ -126,6 +126,45 @@
 
 ---
 
+## 🎯 Featured Projects
+
+### 🌐 Laravel Projects
+
+[![Lar - Login Laravel](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=Lar&theme=radical)](https://github.com/Ahmed-ELnakieb/Lar)
+*A Laravel-based login system with authentication and user management*
+
+[![Mysite - Laravel](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=Mysite&theme=radical)](https://github.com/Ahmed-ELnakieb/Mysite)
+*Full-featured website built with Laravel framework*
+
+### 🎨 Vue.js Projects
+
+[![VueTest](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=VueTest&theme=radical)](https://github.com/Ahmed-ELnakieb/VueTest)
+*Vue.js testing project showcasing component development*
+
+[![make-vue](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=make-vue&theme=radical)](https://github.com/Ahmed-ELnakieb/make-vue)
+*Vue.js application with modern build tools and best practices*
+
+### 🔧 PHP Projects
+
+[![tester](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=tester&theme=radical)](https://github.com/Ahmed-ELnakieb/tester)
+*PHP testing and debugging utilities*
+
+[![Manual](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=Manual&theme=radical)](https://github.com/Ahmed-ELnakieb/Manual)
+*PHP-based documentation and manual system*
+
+---
+
+## 📱 Mobile & Desktop Projects (Coming Soon)
+
+I'm currently working on exciting mobile and desktop applications using:
+- React Native & Expo for cross-platform mobile apps
+- Electron for desktop applications
+- Firebase for backend services
+
+*Stay tuned for new repositories in these categories!*
+
+---
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -133,25 +172,6 @@
 - [Full Stack Development with Laravel and Vue.js](https://ahmed-elnakieb.com/blog/laravel-vue)
 - [Modern Web Development with TailwindCSS](https://ahmed-elnakieb.com/blog/tailwindcss)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 Featured Projects
-
-### 🌐 Web Project: [Project Name](https://github.com/Ahmed-ELnakieb/web-project)
-A full-stack web application built with Laravel, Vue.js, and MySQL. Features include user authentication, real-time updates, and responsive design.
-
-[![View Project](https://img.shields.io/badge/-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/Ahmed-ELnakieb/web-project)
-
-### 📱 Mobile Project: [Project Name](https://github.com/Ahmed-ELnakieb/mobile-project)
-A cross-platform mobile app developed with React Native and Expo. Integrates with Firebase for real-time data synchronization.
-
-[![View Project](https://img.shields.io/badge/-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/Ahmed-ELnakieb/mobile-project)
-
-### 💻 Desktop Project: [Project Name](https://github.com/Ahmed-ELnakieb/desktop-project)
-A desktop application built with Electron and Python. Provides system monitoring and automation capabilities.
-
-[![View Project](https://img.shields.io/badge/-View%20Project-black?style=for-the-badge&logo=github)](https://github.com/Ahmed-ELnakieb/desktop-project)
 
 ---
 
@@ -178,3 +198,15 @@ If you find my projects useful, please consider giving them a star on GitHub! It
 ## 🙏 Thanks for Visiting!
 
 Feel free to fork this repository and customize it for your own profile. Don't forget to give it a star ⭐️ if you find it helpful!
+
+---
+
+## 📊 Repository Overview
+
+I have **35 repositories** covering various aspects of web development, including:
+- **Laravel PHP projects** for robust backend systems
+- **Vue.js applications** for modern frontend development
+- **PHP utilities** and testing tools
+- **JavaScript projects** for interactive web experiences
+
+Check out all my repositories: [View All Repositories](https://github.com/Ahmed-ELnakieb?tab=repositories)
