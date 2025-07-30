@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed ELnakieb 👋
+# Hi there, I'm Ahmed Rezk ELnakieb 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-ELnakieb&style=flat-square)
 [![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fahmed-elnakieb.com&style=flat-square)](https://ahmed-elnakieb.com)
@@ -18,8 +18,7 @@
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://linkedin.com/in/ahmed-elnakieb)
-[![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://twitter.com/ahmed_elnakieb)
-[![GitHub](https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/Ahmed-ELnakieb)
+[![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://github.com/Ahmed-ELnakieb&logo=github&colorB=555)](https://github.com/Ahmed-ELnakieb)
 [![Gmail](https://img.shields.io/badge/-Gmail-black.svg?style=flat-square&logo=gmail&colorB=555)](mailto:ahmedrmohamed2017@gmail.com)
 
 ---
@@ -102,28 +101,16 @@
 ## 🎯 Featured Projects
 
 ### 🌐 Laravel Projects
-
-[![Lar - Login Laravel](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=Lar&theme=radical)](https://github.com/Ahmed-ELnakieb/Lar)
-*A Laravel-based login system with authentication and user management*
-
-[![Mysite - Laravel](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=Mysite&theme=radical)](https://github.com/Ahmed-ELnakieb/Mysite)
-*Full-featured website built with Laravel framework*
+- [Lar](https://github.com/Ahmed-ELnakieb/Lar) - Login Laravel
+- [Mysite](https://github.com/Ahmed-ELnakieb/Mysite) - Laravel Website
 
 ### 🎨 Vue.js Projects
-
-[![VueTest](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=VueTest&theme=radical)](https://github.com/Ahmed-ELnakieb/VueTest)
-*Vue.js testing project showcasing component development*
-
-[![make-vue](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=make-vue&theme=radical)](https://github.com/Ahmed-ELnakieb/make-vue)
-*Vue.js application with modern build tools and best practices*
+- [VueTest](https://github.com/Ahmed-ELnakieb/VueTest) - Vue Testing
+- [make-vue](https://github.com/Ahmed-ELnakieb/make-vue) - Vue Application
 
 ### 🔧 PHP Projects
-
-[![tester](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=tester&theme=radical)](https://github.com/Ahmed-ELnakieb/tester)
-*PHP testing and debugging utilities*
-
-[![Manual](https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELnakieb&repo=Manual&theme=radical)](https://github.com/Ahmed-ELnakieb/Manual)
-*PHP-based documentation and manual system*
+- [tester](https://github.com/Ahmed-ELnakieb/tester) - PHP Testing
+- [Manual](https://github.com/Ahmed-ELnakieb/Manual) - PHP Documentation
 
 ---
 
