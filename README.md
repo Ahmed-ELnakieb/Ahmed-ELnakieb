@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Rezk ELnakieb 👋
+# Hi there, I'm AHMED REZK ELNAKIEB 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-ELnakieb&style=flat-square)
 [![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fahmed-elnakieb.com&style=flat-square)](https://ahmed-elnakieb.com)
@@ -86,9 +86,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements & Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-ELnakieb&theme=radical&no-frame=true&no-bg=true)
+<div align="center">
+  <h3>My GitHub Journey</h3>
+  <p>Check out my achievements and milestones on GitHub!</p>
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-ELnakieb&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=2&column=4)
+  
+  <p><em>Every trophy represents a milestone in my coding journey!</em></p>
+</div>
 
 ---
 
