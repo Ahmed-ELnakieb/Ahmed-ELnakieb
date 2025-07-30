@@ -1,16 +1,17 @@
-# Hi there, I'm Ahmed Rezk ELnakieb 👋
+# Hi there, I'm Ahmed ELnakieb 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-ELnakieb&style=flat-square)
 [![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fahmed-elnakieb.com&style=flat-square)](https://ahmed-elnakieb.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmed_elnakieb?style=flat-square)](https://twitter.com/ahmed_elnakieb)
 
-## I'm a Full Stack Web Developer, Software Engineer, and Cross-Platform App Developer!
+## I'm a Full Stack Web Developer, Software Engineer, and Cross-Platform App Developer from Cairo, Egypt! 🇪🇬
 
 - 🔭 I'm currently working on web, desktop, and mobile applications!
 - 🌱 I'm always learning and exploring new technologies.
 - 👯 I'm looking to collaborate on open source projects.
 - 💬 Ask me about JavaScript, React, Laravel, Vue, Python, and more!
-- 📫 How to reach me: [ahmed.elnakieb@example.com](mailto:ahmed.elnakieb@example.com)
+- 📫 How to reach me: [ahmedrmohamed2017@gmail.com](mailto:ahmedrmohamed2017@gmail.com)
+- 🌍 Based in Cairo, Egypt
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love contributing to open source and building cool projects across platforms!
 
@@ -19,61 +20,34 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://linkedin.com/in/ahmed-elnakieb)
 [![Twitter](https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&colorB=555)](https://twitter.com/ahmed_elnakieb)
 [![GitHub](https://img.shields.io/badge/-GitHub-black.svg?style=flat-square&logo=github&colorB=555)](https://github.com/Ahmed-ELnakieb)
+[![Gmail](https://img.shields.io/badge/-Gmail-black.svg?style=flat-square&logo=gmail&colorB=555)](mailto:ahmedrmohamed2017@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack & Expertise
-
-### 👨‍💻 Programming & Markup Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-### 🧰 Frontend Frameworks & Libraries
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-
-### 🗄️ Backend & Databases
-
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-
-### 📱 Mobile & Desktop Development
-
-![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-
-### 🏢 Enterprise & Business Solutions
-
-![Odoo](https://img.shields.io/badge/-Odoo-black?style=flat-square&logo=odoo)
-![ERPNext](https://img.shields.io/badge/-ERPNext-black?style=flat-square&logo=erpnext)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
-### 💻 Software & Tools
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ---
 
@@ -107,10 +81,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-ELnakieb&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-ELnakieb&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-ELnakieb&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Ahmed-ELnakieb&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ahmed-ELnakieb&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-ELnakieb&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -122,7 +95,7 @@
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahmed-ELnakieb&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-ELnakieb&theme=react-dark)
 
 ---
 
@@ -177,9 +150,16 @@ I'm currently working on exciting mobile and desktop applications using:
 
 ## 📫 Get in Touch
 
-- **Email:** [ahmed.elnakieb@example.com](mailto:ahmed.elnakieb@example.com)
+- **Email:** [ahmedrmohamed2017@gmail.com](mailto:ahmedrmohamed2017@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ahmed-elnakieb](https://linkedin.com/in/ahmed-elnakieb)
 - **Twitter:** [@ahmed_elnakieb](https://twitter.com/ahmed_elnakieb)
+- **Location:** Cairo, Egypt 🇪🇬
+
+### Quick Contact:
+
+[![Gmail](https://img.shields.io/badge/-Send%20Email-black?style=for-the-badge&logo=gmail&colorB=EA4335)](mailto:ahmedrmohamed2017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-black?style=for-the-badge&logo=linkedin&colorB=0077B5)](https://linkedin.com/in/ahmed-elnakieb)
+[![Twitter](https://img.shields.io/badge/-Follow%20on%20Twitter-black?style=for-the-badge&logo=twitter&colorB=1DA1F2)](https://twitter.com/ahmed_elnakieb)
 
 ---
 
@@ -210,3 +190,8 @@ I have **35 repositories** covering various aspects of web development, includin
 - **JavaScript projects** for interactive web experiences
 
 Check out all my repositories: [View All Repositories](https://github.com/Ahmed-ELnakieb?tab=repositories)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Ahmed-ELnakieb&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
