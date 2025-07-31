@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fahmed-elnakieb.com&style=flat-square)](https://ahmed-elnakieb.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmed_elnakieb?style=flat-square)](https://twitter.com/ahmed_elnakieb)
 
-## I'm a Full Stack Web Developer, Software Engineer, and Cross-Platform App Developer from Cairo, Egypt! 🇪🇬
+## I'm a Full Stack Web Developer, Software Engineer, and Cross-Platform App Developer from Cairo, Egypt!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
