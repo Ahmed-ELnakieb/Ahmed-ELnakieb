@@ -1,10 +1,18 @@
-# Hi there, I'm AHMED REZK ELNAKIEB 👋
+# Hi there, I'm Ahmed ELnakieb 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-ELnakieb&style=flat-square)
 [![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fahmed-elnakieb.com&style=flat-square)](https://ahmed-elnakieb.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmed_elnakieb?style=flat-square)](https://twitter.com/ahmed_elnakieb)
 
-## I'm a Full Stack Web Developer, Software Engineer, and Cross-Platform App Developer from Cairo, Egypt! 🇪🇬
+## I'm a Full Stack Web Developer, Software Engineer, and Cross-Platform App Developer from Cairo, Egypt!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  
+  ![Planet Animation](https://user-images.githubusercontent.com/55389250/180595632-7d4d2c4e-8c4c-4a3d-8e3c-3e8c0b5b6e6d.gif)
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=const+developer+=+%7B%0A++++name%3A+'Ahmed+ELnakieb'%2C%0A++++skills%3A+%5B'JavaScript'%2C+'Laravel'%2C+'Vue.js'%2C+'Python'%5D%2C%0A++++location%3A+'Cairo%2C+Egypt'%0A%7D%3B" alt="Typing SVG" />
+</div>
 
 - 🔭 I'm currently working on web, desktop, and mobile applications!
 - 🌱 I'm always learning and exploring new technologies.
@@ -137,6 +145,16 @@ I'm currently working on exciting mobile and desktop applications using:
 
 ---
 
+## 🚀 Coding Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github-readme-text-animation/main/text.gif" alt="Coding Animation">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Software+Engineer;Building+amazing+web+and+mobile+apps;Always+learning+new+technologies;Open+source+enthusiast" alt="Typing SVG" />
+</div>
+
+---
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -182,7 +200,11 @@ If you find my projects useful, please consider giving them a star on GitHub! It
 
 ## 🙏 Thanks for Visiting!
 
-Feel free to fork this repository and customize it for your own profile. Don't forget to give it a star ⭐️ if you find it helpful!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798cc3b/biomarki/biomarki.gif" width="100px">
+  
+  <p>Feel free to fork this repository and customize it for your own profile. Don't forget to give it a star ⭐️ if you find it helpful!</p>
+</div>
 
 ---
 
