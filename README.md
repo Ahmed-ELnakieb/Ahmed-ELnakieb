@@ -1,5 +1,7 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-ELnakieb/Ahmed-ELnakieb/refs/heads/main/Elnakieb.png" alt="AHMED ELNAKIEB - Computer Science Engineer" width="600px">
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Ahmed-ELnakieb/Ahmed-ELnakieb/refs/heads/main/Elnakieb.png">
+    <img src="https://raw.githubusercontent.com/Ahmed-ELnakieb/Ahmed-ELnakieb/refs/heads/main/Elnakieb.png" alt="AHMED ELNAKIEB - Computer Science Engineer" width="100%" style="max-width: 100%;">
+  </a>
 </div>
 
 # Hi there, I'm AHMED REZK ELNAKIEB 👋
