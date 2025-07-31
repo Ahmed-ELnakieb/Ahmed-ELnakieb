@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed ELnakieb 👋
+# Hi there, I'm AHMED REZK ELNAKIEB 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-ELnakieb&style=flat-square)
 [![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fahmed-elnakieb.com&style=flat-square)](https://ahmed-elnakieb.com)
@@ -10,7 +10,7 @@
 - 🌱 I'm always learning and exploring new technologies.
 - 👯 I'm looking to collaborate on open source projects.
 - 💬 Ask me about JavaScript, React, Laravel, Vue, Python, and more!
-- 📫 How to reach me: [ahmedrmohamed2017@gmail.com](mailto:ahmedrmohamed2017@gmail.com)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Contact%20Me%20Via%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahmedrmohamed2017@gmail.com)](mailto:ahmedrmohamed2017@gmail.com)
 - 🌍 Based in Cairo, Egypt
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love contributing to open source and building cool projects across platforms!
@@ -149,16 +149,22 @@ I'm currently working on exciting mobile and desktop applications using:
 
 ## 📫 Get in Touch
 
-- **Email:** [ahmedrmohamed2017@gmail.com](mailto:ahmedrmohamed2017@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ahmed-elnakieb](https://linkedin.com/in/ahmed-elnakieb)
-- **Twitter:** [@ahmed_elnakieb](https://twitter.com/ahmed_elnakieb)
 - **Location:** Cairo, Egypt 🇪🇬
+- **Email:** [![Gmail](https://img.shields.io/badge/-Send%20Me%20An%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahmedrmohamed2017@gmail.com)](mailto:ahmedrmohamed2017@gmail.com)
 
 ### Quick Contact:
 
-[![Gmail](https://img.shields.io/badge/-Send%20Email-black?style=for-the-badge&logo=gmail&colorB=EA4335)](mailto:ahmedrmohamed2017@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-black?style=for-the-badge&logo=linkedin&colorB=0077B5)](https://linkedin.com/in/ahmed-elnakieb)
-[![Twitter](https://img.shields.io/badge/-Follow%20on%20Twitter-black?style=for-the-badge&logo=twitter&colorB=1DA1F2)](https://twitter.com/ahmed_elnakieb)
+<div align="center">
+  <a href="mailto:ahmedrmohamed2017@gmail.com">
+    <img src="https://img.shields.io/badge/-Send%20Me%20An%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email">
+  </a>
+  <a href="https://linkedin.com/in/ahmed-elnakieb">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="https://twitter.com/ahmed_elnakieb">
+    <img src="https://img.shields.io/badge/-Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter">
+  </a>
+</div>
 
 ---
 
